@@ -1,0 +1,15 @@
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\bin\Debug\net8.0\ListInt,Struct.exe
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\bin\Debug\net8.0\ListInt,Struct.deps.json
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\bin\Debug\net8.0\ListInt,Struct.runtimeconfig.json
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\bin\Debug\net8.0\ListInt,Struct.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\bin\Debug\net8.0\ListInt,Struct.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.AssemblyInfoInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.AssemblyInfo.cs
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.csproj.CoreCompileInputs.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.sourcelink.json
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\refint\ListInt,Struct.dll
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.pdb
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ListInt,Struct.genruntimeconfig.cache
+C:\Users\Kubra\OneDrive\Desktop\homework\ListInt ,Struct\ListInt,Struct\ListInt,Struct\obj\Debug\net8.0\ref\ListInt,Struct.dll
